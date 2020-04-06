@@ -1,0 +1,11 @@
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/bin/Debug/netcoreapp2.2/BasicThirteen.deps.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/bin/Debug/netcoreapp2.2/BasicThirteen.runtimeconfig.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/bin/Debug/netcoreapp2.2/BasicThirteen.runtimeconfig.dev.json
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/bin/Debug/netcoreapp2.2/BasicThirteen.dll
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/bin/Debug/netcoreapp2.2/BasicThirteen.pdb
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.csprojAssemblyReference.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.csproj.CoreCompileInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.AssemblyInfoInputs.cache
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.AssemblyInfo.cs
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.dll
+/Users/williamphipps/Desktop/CodingDojo/C#_stack/BasicThirteen/obj/Debug/netcoreapp2.2/BasicThirteen.pdb
